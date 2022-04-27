@@ -16,7 +16,7 @@ consistency between answers, here the node with the smallest number is selected.
 0 0 0 0 1\
 0 0 1 0 0\
 1 1 1 1 0\
-0 0 1 0 0\
+0 0 1 0 0
 
 Input graph:
 
